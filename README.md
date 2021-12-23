@@ -16,10 +16,10 @@ No other cryptocurrency on or off the planet can claim this.
 
 * Environment
 
-Whether based on Proof Of Work or Proof of Stake, all other blockchains have a non-negligible
+Whether based on Proof of Work or Proof of Stake, all other blockchains have a non-negligible
 and non-zero environmental impact. EGX however is based on neither of these. Instead it is
-based on Proof Of Existence, described below. PoE has a minimum environmental impact that is
-provably zero. Individual EGX implementations may have greater environmental impact than this, 
+based on Proof of Existence, described below. PoE has a minimum environmental impact that is
+provably zero. Individual EGX implementations may have greater environmental impact than this,
 but that is entirely on the implementor. EGX PoE can be as low as zero if you wish, and we can
 prove this.
 
