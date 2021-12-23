@@ -124,3 +124,10 @@ Any time you see a cryptocurrency being used for anything, anywhere, ask yoursel
 not that currency could be replaced with EGX.
 
 If not, why not?
+
+## Further Reading
+
+* Geraldine Juárez - [The Ghostchain](https://paletten.net/artiklar/the-ghostchain)
+* The Crypto Syllabus - [Interview with Geraldine Juárez](https://the-crypto-syllabus.com/geraldine-juarez-on-nfts-ghosts/)
+* Discussion of EGX on Twitter - [Announcement and thread](https://twitter.com/conniptions/status/1473247981839212550)
+* Discussion of EGX with Dan Q - [Dan Q's EGX Repost](https://danq.me/2021/12/23/emma-goldcoin/#comments)
