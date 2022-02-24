@@ -90,7 +90,7 @@ for that matter, substantially easier to implement than any other cryptocurrency
 
 ### No-code
 
-Due to the unique properties of EGX, it can be run on a no-code implementation.
+Due to the unique properties of EGX, it can be run on a [no-code](https://github.com/kelseyhightower/nocode) implementation.
 
 Since the total number of EGX is fixed and finite, and since the balance of every EGX wallet is
 also effectively fixed and known, at 1 for human entities and at 0 for non-human entities,
@@ -132,3 +132,4 @@ If not, why not?
 * Discussion of EGX on Twitter - [Announcement and thread](https://twitter.com/conniptions/status/1473247981839212550)
 * Discussion of EGX with Dan Q - [Dan Q's EGX Repost](https://danq.me/2021/12/23/emma-goldcoin/#comments)
 * Sample implementation of a digital wallet - [EGXchange.org](https://egxchange.org/)
+* Nocode by Kelsey Hightower - [Repo and documentation](https://github.com/kelseyhightower/nocode)
